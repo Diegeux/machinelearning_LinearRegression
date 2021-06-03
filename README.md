@@ -4,6 +4,7 @@ A ideia principal desse projeto é prever dados, utilizando o conceito e prátic
 programação Python através do Google Colab.
 
 Siga as orientações:
+
 1 - Acesse o google Colab: https://research.google.com 
 
 2 - Crie um Notebook (Vá em File -> New Notebook);
